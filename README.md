@@ -32,4 +32,4 @@ e-mail: natinho@yandex.ru
 * JAVA;
 * Git.
 
-![](img\photo_2021-11-23_15-35-58)
+![](//img/photo_2021-11-23_15-35-58)
